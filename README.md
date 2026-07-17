@@ -128,6 +128,7 @@ Skills for working with complex file formats:
 | **[Expo Skills](https://github.com/expo/skills)** | Official skills by the Expo team for developing Expo apps |
 | **[shadcn/ui](https://ui.shadcn.com/docs/skills)** | Give Claude Code context on shadcn components as well as pattern enforcement |
 | **[get-shit-done](https://github.com/gsd-build/get-shit-done)** | Lightweight meta-prompting, context engineering, and spec-driven development system for Claude Code by TÂCHES |
+| **[pitch-video](https://github.com/Dhevenddra/pitch-video)** | Automated product pitch video — TTS narration (edge-tts), Playwright footage of the real running app, HTML title cards, ffmpeg assembly. No camera or screen recording needed. |
 
 _More community skills coming soon! Submit a PR to add your skill._
 
